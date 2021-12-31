@@ -5,6 +5,11 @@ Jquery plugin to zoom in/out area in browser with slider.
 
 ![](/example/content-zoom-slider-demo.gif?raw=true "Title")
 
+## Requirements
+Jquery
+
+bootstrap css (for best view)
+
 ## Usage
 See "/example/content-zoom-slider-example.html" for a working demo.
 
