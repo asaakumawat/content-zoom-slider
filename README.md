@@ -31,6 +31,7 @@ See "/example/content-zoom-slider-example.html" for a working demo.
         $("#content").contentZoomSlider({
           toolContainer: ".zoom-tool-bar"
         });
+ });
 </script>
 ```
 ## Options
