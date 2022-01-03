@@ -11,7 +11,9 @@ Jquery
 bootstrap css (for best view)
 
 ## Usage
-See "/example/content-zoom-slider-example.html" for a working demo.
+
+You can refer my youtube video, in which i have explained full implementation. [click here](https://www.youtube.com/embed/C6DM_xQ7BsY)
+
 
 1. Download and include "content-zoom-slider.min.js" file from src folder.
 ```html
